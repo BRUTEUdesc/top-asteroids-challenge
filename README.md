@@ -1,5 +1,10 @@
-# top-asteroids-challenge
+# Top Asteroids
 
-Para mais informações veja wiki:
+Atividade desenvolvida pelo Clube de Computação nas Quartas as 19h
 
-https://github.com/topfreegames/top-asteroids-challenge/wiki
+O desafio consiste em desenvolver um bot que controle uma nave em um *battle royale* nas estrelas.
+
+Para mais informações veja Wiki
+
+> https://github.com/fablabjoinville/top-asteroids-challenge/wiki
+
